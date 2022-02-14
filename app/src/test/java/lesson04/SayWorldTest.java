@@ -7,8 +7,7 @@ public class SayWorldTest {
 
     @Test
     public void methodReturnsWorld() {
-        SayWorld hello = new SayWorld();
-        assertEquals(hello.SaySomething(), "World");
+        assert(false); //Remove this!!
     }
     
 }
