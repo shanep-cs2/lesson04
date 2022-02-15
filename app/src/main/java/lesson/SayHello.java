@@ -1,10 +1,10 @@
-package lesson04;
+package lesson;
 
-public class SayWorld implements Talker{
+public class SayHello implements Talker{
 
     @Override
     public String SaySomething() {
         return null;
     }
-    
+
 }
