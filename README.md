@@ -241,6 +241,12 @@ SayWorld.java classes so they return the appropriate strings.
 Once you have completed all the tasks open the file **Retrospective.md** and complete each section
 with a TODO comment. 
 
+## Important Notes
+
+Generally speaking unless you are directed to in an assignment you are not permitted to change the
+build system (gradle) move the files around or rename classes. Your instructor needs the directory
+structure and file names to be consistent from student to student in order to get grades back in a
+timely manner. If you do make changes that impact grading you will be awarded 0 points.
 
 ## Trouble shooting
 
