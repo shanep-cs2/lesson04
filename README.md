@@ -82,6 +82,8 @@ you may have spent most of you time in the class that has the `main` method, the
 will not do much except create your other objects. 99% of your program logic will be in classes
 outside of main.
 
+- [TestNG Assert](https://www.javadoc.io/doc/org.testng/testng/7.4.0/org/testng/Assert.html)
+
 ### Directory structure
 
 ```bash
@@ -109,6 +111,12 @@ outside of main.
 ├── gradlew.bat
 └── settings.gradle
 ```
+
+## Task 0 - Get your code to compile
+
+The starter code does not build out of the box. So the first step is to write a little code as
+possible to get everything building. We will just stub out methods and classes at this point and not
+worry about implementation.
 
 ## Task 1 - Write your tests!
 
@@ -227,3 +235,21 @@ After you have completed Task #1 you should have **two** tests that are failing!
 now need to actually implement the classes that provide our application logic. There are  four files
 in the `app/src/main/java/lesson` directory. Your job is to complete the SayHello.java and
 SayWorld.java classes so they return the appropriate strings.
+
+## Task 3 - Complete the Retrospective
+
+Once you have completed all the tasks open the file **Retrospective.md** and complete each section
+with a TODO comment. 
+
+
+## Trouble shooting
+
+If you get `command 'XXX' not found error`, mostly it's caused by the Java Language server failing
+to activate. More information can be found on the [redhat-developer tool
+wiki](https://github.com/redhat-developer/vscode-java/wiki/Troubleshooting). You can clean the
+workspace directory in the following way:
+
+- Open the command palette (F1)
+- select Java: Clean the Java Language Server Workspace
+- select Restart and delete from the confirmation prompt
+
