@@ -22,7 +22,7 @@ first** before we write our code.
 
 ## Videos
 
-- [Lab Walkthrough]()
+- [Lab Walkthrough](https://youtu.be/w9uXRaL-uG4)
 - [Fun Video](https://www.youtube.com/watch?v=KG2M4ttzBnY)
 
 ## Hello World (Boring edition)
