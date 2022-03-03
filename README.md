@@ -50,10 +50,8 @@ through setting this all up which you will then replicate on your own system.
 
 ### Build System
 
-So up to this point you may have either been compiling Java by hand or you have been transparently
-using a build system with an IDE such as [Eclipse](https://www.eclipse.org/eclipseide/) or
-[IntelliJ](https://www.jetbrains.com/idea/). It's now time for us to formally introduce a build
-system and write a simple build file just like you would do in industry.
+Let's formally introduce a build system so we an build, run, and debug our code just like you would 
+do in industry.
 
 There are quite a few build systems that were specifically designed for java. By far the top three
 are:
