@@ -81,7 +81,7 @@ discovering and compiling source code that we can take advantage of.
 We will be using a popular testing framework called [TestNG](https://testng.org/doc/) to test our
 code. We will write some tests for our Hello World **Enterprise Edition**™ to ensure that everything
 works as expected. Every class (except App.java) will need to have a test class. Unlike CS121 where
-you may have spent most of you time in the class that has the `main` method, the App.java class
+you may have spent most of your time in the class that has the `main` method, the App.java class
 will not do much except create your other objects. 99% of your program logic will be in classes
 outside of main.
 
@@ -132,7 +132,7 @@ Complete the test methods before you go on to the next task.
 
 After you have completed Task #1 you should have **two** tests that are failing! That is because we
 now need to actually implement the classes that provide our application logic. There are  four files
-in the `app/src/main/java/lesson` directory. Your job is to complete the SayHello.java and
+in the `app/src/main/java/lesson/` directory. Your job is to complete the SayHello.java and
 SayWorld.java classes so they return the appropriate strings.
 
 ## Task 3 - Complete the Retrospective
