@@ -24,6 +24,7 @@ first** before we write our code.
 
 - [Lab Overview]()
 - [Class Coding standards](https://shanep-cs2.github.io/docs/coding-standards.html)
+- [Cloning and Submitting](https://shanep-cs2.github.io/docs/github.html)
 
 
 ## Hello World (Boring edition)
