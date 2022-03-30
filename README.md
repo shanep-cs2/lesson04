@@ -20,9 +20,10 @@ semester. We will also introduce [Test Driven Development
 (TDD)](https://en.wikipedia.org/wiki/Test-driven_development) where we will write all of our **tests
 first** before we write our code.
 
-## Videos
+## Important links
 
 - [Lab Overview]()
+- [Class Coding standards](https://shanep-cs2.github.io/docs/coding-standards.html)
 
 
 ## Hello World (Boring edition)
