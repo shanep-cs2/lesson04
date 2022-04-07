@@ -22,7 +22,7 @@ first** before we write our code.
 
 ## Important links
 
-- [Lab Overview]()
+- [Lab Overview](https://youtu.be/uTKp8jg0kmg)
 - [Class Coding standards](https://shanep-cs2.github.io/docs/coding-standards.html)
 - [Cloning and Submitting](https://shanep-cs2.github.io/docs/github.html)
 
