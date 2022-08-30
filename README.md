@@ -57,7 +57,7 @@ through setting this all up which you will then replicate on your own system.
 
 ### Build System
 
-Let's formally introduce a build system so we an build, run, and debug our code just like you would 
+Let's formally introduce a build system so we can build, run, and debug our code just like you would 
 do in industry.
 
 There are quite a few build systems that were specifically designed for java. By far the top three
