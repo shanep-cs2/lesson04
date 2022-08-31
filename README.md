@@ -10,7 +10,7 @@
 
 ## Overview
 
-This assignment is intended to serve as a warm up assignment. It may have been a long time since you
+This assignment is intended to serve as a warmup assignment. It may have been a long time since you
 have written any code in Java, so we will get warmed up by writing Hello World **enterprise
 edition**™! We are no longer satisfied with a simple hello world, we must make it as complex as
 possible, that way we will ensure job security for years to come!
@@ -26,7 +26,6 @@ first** before we write our code.
 - [Class Coding standards](https://shanep-cs2.github.io/docs/coding-standards.html)
 - [Cloning and Submitting](https://shanep-cs2.github.io/docs/github.html)
 
-
 ## Hello World (Boring edition)
 
 Here is a traditional hello world in Java.
@@ -38,6 +37,7 @@ class Hello{
     }
 }
 ```
+
 We can compile and run this simple example as follows:
 
 ```bash
@@ -57,7 +57,7 @@ through setting this all up which you will then replicate on your own system.
 
 ### Build System
 
-Let's formally introduce a build system so we can build, run, and debug our code just like you would 
+Let's formally introduce a build system so we can build, run, and debug our code just like you would
 do in industry.
 
 There are quite a few build systems that were specifically designed for java. By far the top three
@@ -119,11 +119,11 @@ outside of main.
 
 ## Task 0 - Get your code to compile
 
-The starter code does not build out of the box. So the first step is to write a little code as
+The starter code does not build out of the box. So the first step is to write as little code as
 possible to get everything building. We will just stub out methods and classes at this point and not
 worry about implementation.
 
-## Task 1 - Write your tests!
+## Task 1 - Write your tests
 
 We are going to be practicing TDD all semester! So the first step in any project is to write your
 tests! There are two test files stubbed out and ready for you to implement. Look in the
@@ -140,7 +140,7 @@ SayWorld.java classes so they return the appropriate strings.
 ## Task 3 - Complete the Retrospective
 
 Once you have completed all the tasks open the file **Retrospective.md** and complete each section
-with a TODO comment. 
+with a TODO comment.
 
 ## Task 4 - Add, Commit, Push your code
 
@@ -155,7 +155,7 @@ that can not be changed with comments. Your instructor needs the directory struc
 to be consistent from student to student in order to get grades back in a timely manner. If you do
 make changes that impact grading you will be awarded 0 points and given a chance to fix your code.
 
-While it is true that there is some creativity when programming you still have to follow basic API's
+While it is true that there is some creativity when programming you still have to follow basic APIs
 that were defined years if not decades ago. The assignments have been crafted in a particular way to
 ensure you meet the stated learning objectives. 
 
