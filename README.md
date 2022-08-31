@@ -149,7 +149,7 @@ grading!
 
 ## Important Notes
 
-Generally speaking unless you are explicitly told,you are not permitted to change the build system
+Generally speaking, unless you are explicitly told,you are not permitted to change the build system
 (gradle), move the files around, rename classes, or change interfaces. I have marked all the code
 that can not be changed with comments. Your instructor needs the directory structure and file names
 to be consistent from student to student in order to get grades back in a timely manner. If you do
