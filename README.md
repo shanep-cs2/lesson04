@@ -127,7 +127,7 @@ worry about implementation.
 
 We are going to be practicing TDD all semester! So the first step in any project is to write your
 tests! There are two test files stubbed out and ready for you to implement. Look in the
-`app/test/java/lesson` directory to find the classes SayHelloTest.java and SayWorldTests.java.
+test directory to find the classes SayHelloTest.java and SayWorldTests.java.
 Complete the test methods before you go on to the next task.
 
 ## Task 2 - Write your code
